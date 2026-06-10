@@ -384,11 +384,16 @@ a {
 .hero__bg {
   position: absolute;
   inset: 0;
-  background: var(--midnight);
-  display: flex;
-  align-items: flex-end;
-  justify-content: flex-start;
-  padding: 24px 32px;
+  background-color: var(--midnight);
+  background-size: cover;
+  background-position: center;
+}
+
+.hero__bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(15, 15, 30, 0.45);
 }
 
 .hero__bg-label {
@@ -568,6 +573,8 @@ a {
 
 .card__img {
   height: 260px;
+  background-size: cover;
+  background-position: center;
 }
 
 .card__body {
@@ -629,11 +636,16 @@ a {
 .closing-cta__bg {
   position: absolute;
   inset: 0;
-  background: var(--midnight);
-  display: flex;
-  align-items: flex-end;
-  justify-content: flex-start;
-  padding: 24px 32px;
+  background-color: var(--midnight);
+  background-size: cover;
+  background-position: center;
+}
+
+.closing-cta__bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(15, 15, 30, 0.45);
 }
 
 .closing-cta__content {
@@ -670,11 +682,16 @@ a {
 .page-hero__bg {
   position: absolute;
   inset: 0;
-  background: var(--midnight);
-  display: flex;
-  align-items: flex-end;
-  justify-content: flex-start;
-  padding: 24px 32px;
+  background-color: var(--midnight);
+  background-size: cover;
+  background-position: center;
+}
+
+.page-hero__bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(15, 15, 30, 0.45);
 }
 
 .page-hero__content {
@@ -852,6 +869,8 @@ a {
 .experience-row__img {
   height: 100%;
   min-height: 440px;
+  background-size: cover;
+  background-position: center;
 }
 
 .experience-row__content {
