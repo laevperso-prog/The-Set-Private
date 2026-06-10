@@ -21,7 +21,7 @@ body {
   color: #5a5a6e;
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
 }
@@ -61,7 +61,7 @@ a {
 .t-ui {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
 }
@@ -136,7 +136,7 @@ a {
 .img-placeholder span {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
@@ -176,7 +176,7 @@ a {
 .nav__wordmark-main {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 24px;
   color: var(--midnight);
   letter-spacing: 0.05em;
 }
@@ -184,7 +184,7 @@ a {
 .nav__wordmark-sub {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 9px;
+  font-size: 13px;
   letter-spacing: 0.4em;
   text-transform: uppercase;
   color: var(--sand);
@@ -200,7 +200,7 @@ a {
 .nav__links a {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--midnight);
@@ -271,7 +271,7 @@ a {
   border: none;
   cursor: pointer;
   font-family: 'Jost', sans-serif;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--sand);
@@ -304,7 +304,7 @@ a {
 .footer__wordmark-sub {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 9px;
+  font-size: 13px;
   letter-spacing: 0.4em;
   text-transform: uppercase;
   color: var(--sand);
@@ -321,7 +321,7 @@ a {
 .footer__nav a {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--sand);
@@ -335,7 +335,7 @@ a {
 .footer__email {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 12px;
+  font-size: 16px;
   color: var(--muted);
 }
 
@@ -348,7 +348,7 @@ a {
 .footer__copy {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 12px;
+  font-size: 16px;
   color: var(--muted);
 }
 
@@ -394,7 +394,7 @@ a {
 .hero__bg-label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 9px;
+  font-size: 13px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--sand);
@@ -475,7 +475,7 @@ a {
 .intro__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--slate);
   line-height: 1.9;
   max-width: 520px;
@@ -500,7 +500,7 @@ a {
 .pillar__label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
@@ -520,7 +520,7 @@ a {
 .pillar__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--muted);
   line-height: 1.8;
   letter-spacing: 0.03em;
@@ -540,7 +540,7 @@ a {
 .section-label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
@@ -577,7 +577,7 @@ a {
 .card__label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
@@ -597,7 +597,7 @@ a {
 .card__text {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--slate);
   line-height: 1.7;
   letter-spacing: 0.03em;
@@ -607,7 +607,7 @@ a {
 .card__price {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 16px;
   color: var(--dusk);
 }
 
@@ -717,7 +717,7 @@ a {
 .brand-story__right {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--slate);
   line-height: 1.9;
   letter-spacing: 0.03em;
@@ -764,7 +764,7 @@ a {
 .roster-card__cred {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 16px;
   color: var(--dusk);
   letter-spacing: 0.05em;
 }
@@ -772,7 +772,7 @@ a {
 .roster__note {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 16px;
   color: var(--muted);
   letter-spacing: 0.03em;
 }
@@ -794,7 +794,7 @@ a {
 .value__label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
@@ -814,7 +814,7 @@ a {
 .value__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--slate);
   line-height: 1.8;
   letter-spacing: 0.03em;
@@ -869,7 +869,7 @@ a {
 .experience-row__label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
@@ -889,7 +889,7 @@ a {
 .experience-row__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--slate);
   line-height: 1.9;
   letter-spacing: 0.03em;
@@ -899,7 +899,7 @@ a {
 .experience-row__details {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 16px;
   color: var(--dusk);
   letter-spacing: 0.03em;
   margin-bottom: 28px;
@@ -908,7 +908,7 @@ a {
 .experience-row__price {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 16px;
   color: var(--dusk);
   margin-bottom: 20px;
 }
@@ -934,7 +934,7 @@ a {
 .partner__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--muted);
   max-width: 520px;
   margin: 0 auto 40px;
@@ -978,7 +978,7 @@ a {
 .contact-left__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--slate);
   line-height: 1.9;
   letter-spacing: 0.03em;
@@ -994,7 +994,7 @@ a {
 .contact-detail__label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
@@ -1005,7 +1005,7 @@ a {
 .contact-detail__value {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--slate);
   letter-spacing: 0.03em;
 }
@@ -1026,7 +1026,7 @@ a {
 .form-field label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.15em;
   text-transform: uppercase;
   color: var(--dusk);
@@ -1037,7 +1037,7 @@ a {
 .form-field textarea {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--midnight);
   background: transparent;
   border: none;
@@ -1076,7 +1076,7 @@ a {
 .form-field .error-msg {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 16px;
   color: var(--dusk);
   display: none;
 }
