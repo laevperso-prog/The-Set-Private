@@ -21,7 +21,7 @@ body {
   color: #5a5a6e;
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
 }
@@ -61,8 +61,8 @@ a {
 .t-ui {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
-  letter-spacing: 0.2em;
+  font-size: 12px;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
 }
 
@@ -85,7 +85,7 @@ a {
   display: inline-block;
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
+  font-size: 13px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   padding: 12px 32px;
@@ -136,8 +136,8 @@ a {
 .img-placeholder span {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
-  letter-spacing: 0.2em;
+  font-size: 12px;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
   opacity: 0.7;
@@ -200,7 +200,7 @@ a {
 .nav__links a {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--midnight);
@@ -271,7 +271,7 @@ a {
   border: none;
   cursor: pointer;
   font-family: 'Jost', sans-serif;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--sand);
@@ -321,7 +321,7 @@ a {
 .footer__nav a {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--sand);
@@ -335,7 +335,7 @@ a {
 .footer__email {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
 }
 
@@ -348,7 +348,7 @@ a {
 .footer__copy {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 11px;
+  font-size: 12px;
   color: var(--muted);
 }
 
@@ -356,7 +356,7 @@ a {
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 16px;
   color: var(--sand);
 }
 
@@ -410,8 +410,8 @@ a {
 .hero__the {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
-  letter-spacing: 0.35em;
+  font-size: 13px;
+  letter-spacing: 0.4em;
   text-transform: uppercase;
   color: var(--sand);
   display: block;
@@ -421,7 +421,7 @@ a {
 .hero__set {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 72px;
+  font-size: 120px;
   color: var(--parchment);
   display: block;
   line-height: 1;
@@ -437,8 +437,8 @@ a {
 .hero__private {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
-  letter-spacing: 0.45em;
+  font-size: 13px;
+  letter-spacing: 0.4em;
   text-transform: uppercase;
   color: var(--sand);
   display: block;
@@ -449,7 +449,7 @@ a {
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 26px;
   color: var(--parchment);
   display: block;
   margin-bottom: 36px;
@@ -465,7 +465,7 @@ a {
 .intro__quote {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 34px;
   color: var(--midnight);
   line-height: 1.5;
   max-width: 700px;
@@ -475,7 +475,7 @@ a {
 .intro__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--slate);
   line-height: 1.9;
   max-width: 520px;
@@ -500,8 +500,8 @@ a {
 .pillar__label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
-  letter-spacing: 0.2em;
+  font-size: 12px;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
   margin-bottom: 16px;
@@ -511,7 +511,7 @@ a {
 .pillar__title {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 24px;
+  font-size: 30px;
   color: var(--parchment);
   margin-bottom: 16px;
   line-height: 1.3;
@@ -520,7 +520,7 @@ a {
 .pillar__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--muted);
   line-height: 1.8;
   letter-spacing: 0.03em;
@@ -540,8 +540,8 @@ a {
 .section-label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
-  letter-spacing: 0.2em;
+  font-size: 12px;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
   display: block;
@@ -551,7 +551,7 @@ a {
 .section-title {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 36px;
+  font-size: 42px;
   color: var(--midnight);
 }
 
@@ -577,8 +577,8 @@ a {
 .card__label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
-  letter-spacing: 0.2em;
+  font-size: 12px;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
   display: block;
@@ -588,7 +588,7 @@ a {
 .card__title {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 22px;
+  font-size: 28px;
   color: var(--midnight);
   margin-bottom: 10px;
   line-height: 1.3;
@@ -597,7 +597,7 @@ a {
 .card__text {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--slate);
   line-height: 1.7;
   letter-spacing: 0.03em;
@@ -607,7 +607,7 @@ a {
 .card__price {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 11px;
+  font-size: 13px;
   color: var(--dusk);
 }
 
@@ -646,7 +646,7 @@ a {
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
   font-weight: 300;
-  font-size: 32px;
+  font-size: 46px;
   color: var(--parchment);
   display: block;
   margin-bottom: 32px;
@@ -686,7 +686,7 @@ a {
 .page-hero__title {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 64px;
+  font-size: 86px;
   color: var(--parchment);
   line-height: 1;
 }
@@ -709,7 +709,7 @@ a {
 .brand-story__left {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 22px;
+  font-size: 28px;
   color: var(--midnight);
   line-height: 1.6;
 }
@@ -717,7 +717,7 @@ a {
 .brand-story__right {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--slate);
   line-height: 1.9;
   letter-spacing: 0.03em;
@@ -735,7 +735,7 @@ a {
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
   font-weight: 300;
-  font-size: 20px;
+  font-size: 26px;
   color: var(--parchment);
   margin-bottom: 56px;
 }
@@ -756,7 +756,7 @@ a {
 .roster-card__name {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 20px;
+  font-size: 26px;
   color: var(--parchment);
   margin-bottom: 6px;
 }
@@ -764,7 +764,7 @@ a {
 .roster-card__cred {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 11px;
+  font-size: 13px;
   color: var(--dusk);
   letter-spacing: 0.05em;
 }
@@ -772,7 +772,7 @@ a {
 .roster__note {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 11px;
+  font-size: 13px;
   color: var(--muted);
   letter-spacing: 0.03em;
 }
@@ -794,8 +794,8 @@ a {
 .value__label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
-  letter-spacing: 0.2em;
+  font-size: 12px;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
   display: block;
@@ -805,7 +805,7 @@ a {
 .value__title {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 22px;
+  font-size: 28px;
   color: var(--midnight);
   margin-bottom: 14px;
   line-height: 1.3;
@@ -814,7 +814,7 @@ a {
 .value__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--slate);
   line-height: 1.8;
   letter-spacing: 0.03em;
@@ -869,8 +869,8 @@ a {
 .experience-row__label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
-  letter-spacing: 0.2em;
+  font-size: 12px;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
   display: block;
@@ -880,7 +880,7 @@ a {
 .experience-row__title {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 32px;
+  font-size: 42px;
   color: var(--midnight);
   margin-bottom: 20px;
   line-height: 1.2;
@@ -889,7 +889,7 @@ a {
 .experience-row__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--slate);
   line-height: 1.9;
   letter-spacing: 0.03em;
@@ -899,7 +899,7 @@ a {
 .experience-row__details {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 11px;
+  font-size: 13px;
   color: var(--dusk);
   letter-spacing: 0.03em;
   margin-bottom: 28px;
@@ -908,7 +908,7 @@ a {
 .experience-row__price {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 11px;
+  font-size: 13px;
   color: var(--dusk);
   margin-bottom: 20px;
 }
@@ -924,7 +924,7 @@ a {
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
   font-weight: 300;
-  font-size: 22px;
+  font-size: 28px;
   color: var(--parchment);
   max-width: 600px;
   margin: 0 auto 24px;
@@ -934,7 +934,7 @@ a {
 .partner__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--muted);
   max-width: 520px;
   margin: 0 auto 40px;
@@ -969,7 +969,7 @@ a {
 .contact-left__heading {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
-  font-size: 24px;
+  font-size: 32px;
   color: var(--midnight);
   line-height: 1.4;
   margin-bottom: 20px;
@@ -978,7 +978,7 @@ a {
 .contact-left__body {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--slate);
   line-height: 1.9;
   letter-spacing: 0.03em;
@@ -994,8 +994,8 @@ a {
 .contact-detail__label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
-  letter-spacing: 0.2em;
+  font-size: 12px;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--sand);
   display: block;
@@ -1005,7 +1005,7 @@ a {
 .contact-detail__value {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 12px;
+  font-size: 15px;
   color: var(--slate);
   letter-spacing: 0.03em;
 }
@@ -1026,7 +1026,7 @@ a {
 .form-field label {
   font-family: 'Jost', sans-serif;
   font-weight: 400;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.15em;
   text-transform: uppercase;
   color: var(--dusk);
@@ -1037,7 +1037,7 @@ a {
 .form-field textarea {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--midnight);
   background: transparent;
   border: none;
@@ -1076,7 +1076,7 @@ a {
 .form-field .error-msg {
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 11px;
+  font-size: 13px;
   color: var(--dusk);
   display: none;
 }
@@ -1090,7 +1090,7 @@ a {
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 22px;
   color: var(--dusk);
   margin-top: 8px;
 }
@@ -1120,7 +1120,7 @@ a {
 
   /* Hero */
   .hero__set {
-    font-size: 52px;
+    font-size: 80px;
   }
 
   /* Sections padding */
@@ -1136,7 +1136,7 @@ a {
   }
 
   .intro__quote {
-    font-size: 22px;
+    font-size: 26px;
   }
 
   /* Pillars */
@@ -1221,11 +1221,11 @@ a {
 
   /* Page hero */
   .page-hero__title {
-    font-size: 48px;
+    font-size: 60px;
   }
 
   .closing-cta__heading {
-    font-size: 24px;
+    font-size: 32px;
     padding: 0 24px;
   }
 }
