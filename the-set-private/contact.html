@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact — The Set Private</title>
+  <meta name="description" content="Every enquiry is handled personally. Whether you are a prospective client, a luxury travel partner, or a former professional — we would be glad to hear from you.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- ── Navigation ──────────────────────────────────────── -->
+  <nav class="nav" role="navigation" aria-label="Main navigation">
+    <a href="index.html" class="nav__wordmark" aria-label="The Set Private — home">
+      <span class="nav__wordmark-main">The Set</span>
+      <span class="nav__wordmark-sub">Private</span>
+    </a>
+    <ul class="nav__links">
+      <li><a href="experiences.html">Experiences</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <button class="nav__hamburger" aria-label="Open menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </nav>
+
+  <!-- Mobile overlay -->
+  <div class="nav__overlay" role="dialog" aria-modal="true" aria-label="Navigation menu" style="display:none;">
+    <button class="nav__overlay-close" aria-label="Close menu">Close</button>
+    <a href="experiences.html">Experiences</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </div>
+
+  <main class="page-content">
+
+    <!-- ── Hero (half-height) ─────────────────────────────── -->
+    <section class="page-hero page-hero--half" aria-label="Contact hero">
+      <div class="page-hero__bg">
+        <span class="hero__bg-label">Photography — Empty Court at Dawn</span>
+      </div>
+      <div class="page-hero__content">
+        <h1 class="page-hero__title">Contact</h1>
+      </div>
+    </section>
+
+    <!-- ── Contact Section ────────────────────────────────── -->
+    <section class="contact-section">
+      <div class="contact-inner">
+
+        <!-- Left -->
+        <div class="fade-in">
+          <h2 class="contact-left__heading">Every enquiry is handled personally.</h2>
+          <p class="contact-left__body">Whether you are a prospective client, a luxury travel partner, or a former professional interested in joining our roster — we would be glad to hear from you.</p>
+
+          <div class="contact-left__details">
+            <div>
+              <span class="contact-detail__label">General</span>
+              <a href="mailto:hello@thesetprivate.com" class="contact-detail__value">hello@thesetprivate.com</a>
+            </div>
+            <div>
+              <span class="contact-detail__label">Partners</span>
+              <a href="mailto:partners@thesetprivate.com" class="contact-detail__value">partners@thesetprivate.com</a>
+            </div>
+            <div>
+              <span class="contact-detail__label">Professionals</span>
+              <a href="mailto:roster@thesetprivate.com" class="contact-detail__value">roster@thesetprivate.com</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right — Form -->
+        <div class="fade-in">
+          <form class="enquiry-form" id="enquiry-form" novalidate>
+
+            <div class="form-field">
+              <label for="full-name">Full name</label>
+              <input type="text" id="full-name" name="full-name" autocomplete="name" required placeholder="">
+              <span class="error-msg">Please enter your name.</span>
+            </div>
+
+            <div class="form-field">
+              <label for="email">Email address</label>
+              <input type="email" id="email" name="email" autocomplete="email" required placeholder="">
+              <span class="error-msg">Please enter a valid email address.</span>
+            </div>
+
+            <div class="form-field">
+              <label for="enquiry-type">I am a</label>
+              <select id="enquiry-type" name="enquiry-type" required>
+                <option value="" disabled selected></option>
+                <option value="client">Prospective client</option>
+                <option value="partner">Luxury travel partner</option>
+                <option value="professional">Former professional</option>
+                <option value="other">Other</option>
+              </select>
+              <span class="error-msg">Please select an option.</span>
+            </div>
+
+            <div class="form-field">
+              <label for="message">Message</label>
+              <textarea id="message" name="message" rows="4" required placeholder=""></textarea>
+              <span class="error-msg">Please include a message.</span>
+            </div>
+
+            <div>
+              <button type="submit" class="btn btn--filled">Send enquiry</button>
+            </div>
+
+          </form>
+
+          <p class="form-confirmation" id="form-confirmation" role="alert">
+            Thank you. We will be in touch shortly.
+          </p>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ── Footer ─────────────────────────────────────────────── -->
+  <footer class="footer" role="contentinfo">
+    <div class="footer__main">
+      <a href="index.html" class="nav__wordmark" aria-label="The Set Private — home">
+        <span class="footer__wordmark-main">The Set</span>
+        <span class="footer__wordmark-sub">Private</span>
+      </a>
+      <ul class="footer__nav">
+        <li><a href="experiences.html">Experiences</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+      <span class="footer__email">hello@thesetprivate.com</span>
+    </div>
+    <div class="footer__bottom">
+      <span class="footer__copy">© The Set Private</span>
+      <span class="footer__tagline">Play differently.</span>
+    </div>
+  </footer>
+
+  <script src="nav.js"></script>
+</body>
+</html>
